@@ -73,7 +73,7 @@ tar -zxvf do_push/rofaaee.tar
 mv rofaaee.txt do_push/.modules/
 cd $dir
 gcc do_push/.modules/.xerxes/xerxes.c -o xerxes 
-mv do_push/xerxes EasY_HaCk/.modules/.xerxes/
+mv do_push/xerxes do_push/.modules/.xerxes/
 chmod +x do_push/*
 chmod +x do_push/.modules/.*
 chmod +x do_push/.modules/*
