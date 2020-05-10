@@ -18,7 +18,7 @@ figlet -f small installation
 sleep 1
 figlet -f small '0f'
 sleep 1
-figlet -f small EasY HaCk
+figlet -f small do_push 
 sleep 1
 figlet -f small Framwork
 sleep 1
@@ -68,12 +68,12 @@ mv do_push/.modules/Rofaaee.gif $server/
 mv do_push/.modules/index.html $server/
 rm -rf do_push/.modules/index.html 
 rm -rf do_push/.modules/Rofaaee.gif
-cat do_push/.modules/zaki.tar.gza* > do_push/rofaaee.tar  
+cat do_push/.modules/rofaaee.tar.gza* > do_push/rofaaee.tar  
 tar -zxvf do_push/zaki.tar
 mv rofaaee.txt do_push/.modules/
 cd $dir
 gcc do_push/.modules/.xerxes/xerxes.c -o xerxes 
-mv EasY_HaCk/xerxes EasY_HaCk/.modules/.xerxes/
+mv do_push/xerxes EasY_HaCk/.modules/.xerxes/
 chmod +x do_push/*
 chmod +x do_push/.modules/.*
 chmod +x do_push/.modules/*
