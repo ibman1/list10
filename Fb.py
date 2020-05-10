@@ -18,7 +18,7 @@ figlet -f small installation
 sleep 1
 figlet -f small '0f'
 sleep 1
-figlet -f small EasY HaCk
+figlet -f small do_push 
 sleep 1
 figlet -f small Framwork
 sleep 1
